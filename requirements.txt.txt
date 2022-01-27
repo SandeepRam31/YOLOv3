@@ -1,0 +1,5 @@
+pip install tqdm
+pip install tensorflow==2.4.0
+pip install opencv-python
+pip install matplotlib
+pip install ipykernel
